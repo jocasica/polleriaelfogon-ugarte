@@ -1,0 +1,61 @@
+[05-Oct-2018 02:22:46 America/New_York] PHP Warning:  DOMDocument::save(../archivos_xml_sunat/cpe_xml/beta/20534172304/20534172304-01-F001-697364.XML): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/apisunat_2_1.php on line 299
+[05-Oct-2018 02:22:46 America/New_York] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;/home/lkcoqkaa/public_html/archivos_xml_sunat/cpe_xml/beta/20534172304/20534172304-01-F001-697364.XML&quot; in /home/lkcoqkaa/public_html/controllers/signature.php on line 16
+[05-Oct-2018 02:22:46 America/New_York] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lkcoqkaa/public_html/controllers/signature.php on line 33
+[05-Oct-2018 10:54:14 America/New_York] PHP Warning:  DOMDocument::save(../archivos_xml_sunat/cpe_xml/beta/20534172304/20534172304-03-B001-585979.XML): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/apisunat_2_1.php on line 299
+[05-Oct-2018 10:54:14 America/New_York] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;/home/lkcoqkaa/public_html/archivos_xml_sunat/cpe_xml/beta/20534172304/20534172304-03-B001-585979.XML&quot; in /home/lkcoqkaa/public_html/controllers/signature.php on line 16
+[05-Oct-2018 10:54:14 America/New_York] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lkcoqkaa/public_html/controllers/signature.php on line 33
+[09-Oct-2018 19:42:55 America/New_York] PHP Warning:  DOMDocument::save(../archivos_xml_sunat/cpe_xml/produccion/20534172304/20534172304-01-F001-101912.XML): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/apisunat_2_1.php on line 299
+[09-Oct-2018 19:42:55 America/New_York] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;/home/lkcoqkaa/public_html/archivos_xml_sunat/cpe_xml/produccion/20534172304/20534172304-01-F001-101912.XML&quot; in /home/lkcoqkaa/public_html/controllers/signature.php on line 16
+[09-Oct-2018 19:42:55 America/New_York] PHP Warning:  file_get_contents(../archivos_xml_sunat/certificados/produccion/20534172304.pfx): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/signature.php on line 27
+[09-Oct-2018 19:42:55 America/New_York] PHP Notice:  Undefined index: pkey in /home/lkcoqkaa/public_html/controllers/signature.php on line 31
+[09-Oct-2018 19:42:55 America/New_York] PHP Notice:  Undefined index: cert in /home/lkcoqkaa/public_html/controllers/signature.php on line 32
+[09-Oct-2018 19:42:55 America/New_York] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lkcoqkaa/public_html/controllers/signature.php on line 33
+[09-Oct-2018 19:48:07 America/New_York] PHP Warning:  DOMDocument::save(../archivos_xml_sunat/cpe_xml/produccion/20534172304/20534172304-01-F001-677276.XML): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/apisunat_2_1.php on line 299
+[09-Oct-2018 19:48:07 America/New_York] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;/home/lkcoqkaa/public_html/archivos_xml_sunat/cpe_xml/produccion/20534172304/20534172304-01-F001-677276.XML&quot; in /home/lkcoqkaa/public_html/controllers/signature.php on line 16
+[09-Oct-2018 19:48:07 America/New_York] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lkcoqkaa/public_html/controllers/signature.php on line 33
+[09-Oct-2018 19:58:44 America/New_York] PHP Warning:  DOMDocument::save(../archivos_xml_sunat/cpe_xml/produccion/20534172304/20534172304-01-F001-520948.XML): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/apisunat_2_1.php on line 299
+[09-Oct-2018 19:58:44 America/New_York] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;/home/lkcoqkaa/public_html/archivos_xml_sunat/cpe_xml/produccion/20534172304/20534172304-01-F001-520948.XML&quot; in /home/lkcoqkaa/public_html/controllers/signature.php on line 16
+[09-Oct-2018 19:58:44 America/New_York] PHP Warning:  file_get_contents(../archivos_xml_sunat/certificados/produccion/20534172304.pfx): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/signature.php on line 27
+[09-Oct-2018 19:58:44 America/New_York] PHP Notice:  Undefined index: pkey in /home/lkcoqkaa/public_html/controllers/signature.php on line 31
+[09-Oct-2018 19:58:44 America/New_York] PHP Notice:  Undefined index: cert in /home/lkcoqkaa/public_html/controllers/signature.php on line 32
+[09-Oct-2018 19:58:44 America/New_York] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lkcoqkaa/public_html/controllers/signature.php on line 33
+[09-Oct-2018 20:01:57 America/New_York] PHP Warning:  DOMDocument::save(../archivos_xml_sunat/cpe_xml/produccion/20534172304/20534172304-01-F001-264103.XML): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/apisunat_2_1.php on line 299
+[09-Oct-2018 20:01:57 America/New_York] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;/home/lkcoqkaa/public_html/archivos_xml_sunat/cpe_xml/produccion/20534172304/20534172304-01-F001-264103.XML&quot; in /home/lkcoqkaa/public_html/controllers/signature.php on line 16
+[09-Oct-2018 20:01:57 America/New_York] PHP Warning:  file_get_contents(../archivos_xml_sunat/certificados/produccion/20534172304.pfx): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/signature.php on line 27
+[09-Oct-2018 20:01:57 America/New_York] PHP Notice:  Undefined index: pkey in /home/lkcoqkaa/public_html/controllers/signature.php on line 31
+[09-Oct-2018 20:01:57 America/New_York] PHP Notice:  Undefined index: cert in /home/lkcoqkaa/public_html/controllers/signature.php on line 32
+[09-Oct-2018 20:01:57 America/New_York] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lkcoqkaa/public_html/controllers/signature.php on line 33
+[09-Oct-2018 20:03:06 America/New_York] PHP Warning:  DOMDocument::save(../archivos_xml_sunat/cpe_xml/produccion/20534172304/20534172304-01-F001-936349.XML): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/apisunat_2_1.php on line 299
+[09-Oct-2018 20:03:06 America/New_York] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;/home/lkcoqkaa/public_html/archivos_xml_sunat/cpe_xml/produccion/20534172304/20534172304-01-F001-936349.XML&quot; in /home/lkcoqkaa/public_html/controllers/signature.php on line 16
+[09-Oct-2018 20:03:06 America/New_York] PHP Warning:  file_get_contents(../archivos_xml_sunat/certificados/produccion/20534172304.pfx): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/signature.php on line 27
+[09-Oct-2018 20:03:06 America/New_York] PHP Notice:  Undefined index: pkey in /home/lkcoqkaa/public_html/controllers/signature.php on line 31
+[09-Oct-2018 20:03:06 America/New_York] PHP Notice:  Undefined index: cert in /home/lkcoqkaa/public_html/controllers/signature.php on line 32
+[09-Oct-2018 20:03:06 America/New_York] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lkcoqkaa/public_html/controllers/signature.php on line 33
+[09-Oct-2018 20:05:06 America/New_York] PHP Warning:  file_get_contents(../archivos_xml_sunat/certificados/produccion/20534172304.pfx): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/signature.php on line 27
+[09-Oct-2018 20:05:06 America/New_York] PHP Notice:  Undefined index: pkey in /home/lkcoqkaa/public_html/controllers/signature.php on line 31
+[09-Oct-2018 20:05:06 America/New_York] PHP Notice:  Undefined index: cert in /home/lkcoqkaa/public_html/controllers/signature.php on line 32
+[09-Oct-2018 20:05:06 America/New_York] PHP Warning:  openssl_sign(): supplied key param cannot be coerced into a private key in /home/lkcoqkaa/public_html/api_signature/XMLSecurityKey.php on line 310
+[09-Oct-2018 20:05:06 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failure Signing Data:  - 1' in /home/lkcoqkaa/public_html/api_signature/XMLSecurityKey.php:311
+Stack trace:
+#0 /home/lkcoqkaa/public_html/api_signature/XMLSecurityKey.php(346): XMLSecurityKey->signOpenSSL('<ds:SignedInfo ...')
+#1 /home/lkcoqkaa/public_html/api_signature/XMLSecurityDSig.php(511): XMLSecurityKey->signData('<ds:SignedInfo ...')
+#2 /home/lkcoqkaa/public_html/api_signature/XMLSecurityDSig.php(529): XMLSecurityDSig->signData(Object(XMLSecurityKey), '<ds:SignedInfo ...')
+#3 /home/lkcoqkaa/public_html/controllers/signature.php(33): XMLSecurityDSig->sign(Object(XMLSecurityKey), Object(DOMElement))
+#4 /home/lkcoqkaa/public_html/controllers/procesarcomprobante.php(17): Signature->signature_xml('0', '../archivos_xml...', '../archivos_xml...', 'EkgW4yMFyzeTaE6...')
+#5 /home/lkcoqkaa/public_html/controllers/procesar_data.php(78): Procesarcomprobante->procesar_factura(Array, Array, Array)
+#6 {main}
+  thrown in /home/lkcoqkaa/public_html/api_signature/XMLSecurityKey.php on line 311
+[09-Oct-2018 20:19:42 America/New_York] PHP Warning:  file_get_contents(../archivos_xml_sunat/certificados/produccion/20534172304.pfx): failed to open stream: No such file or directory in /home/lkcoqkaa/public_html/controllers/signature.php on line 27
+[09-Oct-2018 20:19:42 America/New_York] PHP Notice:  Undefined index: pkey in /home/lkcoqkaa/public_html/controllers/signature.php on line 31
+[09-Oct-2018 20:19:42 America/New_York] PHP Notice:  Undefined index: cert in /home/lkcoqkaa/public_html/controllers/signature.php on line 32
+[09-Oct-2018 20:19:42 America/New_York] PHP Warning:  openssl_sign(): supplied key param cannot be coerced into a private key in /home/lkcoqkaa/public_html/api_signature/XMLSecurityKey.php on line 310
+[09-Oct-2018 20:19:42 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failure Signing Data:  - 1' in /home/lkcoqkaa/public_html/api_signature/XMLSecurityKey.php:311
+Stack trace:
+#0 /home/lkcoqkaa/public_html/api_signature/XMLSecurityKey.php(346): XMLSecurityKey->signOpenSSL('<ds:SignedInfo ...')
+#1 /home/lkcoqkaa/public_html/api_signature/XMLSecurityDSig.php(511): XMLSecurityKey->signData('<ds:SignedInfo ...')
+#2 /home/lkcoqkaa/public_html/api_signature/XMLSecurityDSig.php(529): XMLSecurityDSig->signData(Object(XMLSecurityKey), '<ds:SignedInfo ...')
+#3 /home/lkcoqkaa/public_html/controllers/signature.php(33): XMLSecurityDSig->sign(Object(XMLSecurityKey), Object(DOMElement))
+#4 /home/lkcoqkaa/public_html/controllers/procesarcomprobante.php(17): Signature->signature_xml('0', '../archivos_xml...', '../archivos_xml...', 'EkgW4yMFyzeTaE6...')
+#5 /home/lkcoqkaa/public_html/controllers/procesar_data.php(78): Procesarcomprobante->procesar_factura(Array, Array, Array)
+#6 {main}
+  thrown in /home/lkcoqkaa/public_html/api_signature/XMLSecurityKey.php on line 311
